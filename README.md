@@ -1,2 +1,3 @@
 # hello-world
-javascript repositiry
+javascript repository
+this is so fun
